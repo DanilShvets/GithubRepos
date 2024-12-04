@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "test-repo",
+      "description": "Test description",
+      "owner": {
+        "login": "test-user",
+        "avatar_url": "https://test.com/avatar.jpg"
+      },
+      "stargazers_count": 100
+    }
+  ]
+}

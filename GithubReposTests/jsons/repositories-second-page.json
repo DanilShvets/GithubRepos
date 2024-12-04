@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "name": "second-page-repo",
+      "description": "Second page test description",
+      "owner": {
+        "login": "test-user-2",
+        "avatar_url": "https://test.com/avatar2.jpg"
+      },
+      "stargazers_count": 200
+    }
+  ]
+}

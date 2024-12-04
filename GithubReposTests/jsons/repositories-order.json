@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "First",
+      "description": "Test description for first",
+      "owner": {
+        "login": "first-test-user",
+        "avatar_url": "https://test.com/avatar.jpg"
+      },
+      "stargazers_count": 100
+    },
+    {
+      "id": 2,
+      "name": "Second",
+      "description": "Test description for second",
+      "owner": {
+        "login": "second-test-user",
+        "avatar_url": "https://test.com/avatar.jpg"
+      },
+      "stargazers_count": 150
+    }
+  ]
+}
